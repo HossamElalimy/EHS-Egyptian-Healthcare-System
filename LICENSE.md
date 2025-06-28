@@ -1,5 +1,7 @@
+Copyright © 2025 Hossam Mohamed
+
 All rights reserved.
 
-This project and its contents may not be copied, modified, distributed, or used without prior written permission from Hossam Mohamed.
+No part of this repository or its contents may be copied, modified, distributed, or used in any form without prior written consent.
 
-© 2025 Hossam Mohamed. All rights reserved.
+Unauthorized use or sharing is strictly prohibited.
