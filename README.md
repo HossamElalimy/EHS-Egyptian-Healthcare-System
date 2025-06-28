@@ -5,32 +5,24 @@
 <h1 align="center">Egyptian Healthcare System (EHS)</h1>
 
 <p align="center">
-  <strong>Built by Hossam Mohamed</strong><br/>
-  A step towards a secure, unified digital healthcare future for Egypt — supporting Vision 2030.
+  <strong>By Hossam Mohamed</strong><br/>
+  A future step towards connected, secure healthcare.
 </p>
 
 ---
 
-## 📖 About EHS
+## 🗂️ Overview
 
-The **Egyptian Healthcare System (EHS)** is an original project designed and developed by **Hossam Mohamed**.  
-EHS connects citizens' healthcare data securely through a unified system, making medical records more accessible and connected across Egypt.
-
----
-
-## 🚫 Copyright Notice
-
-All content, source code, designs, and ideas in this repository are the exclusive property of **Hossam Mohamed**.
-
-**No part of this project may be copied, reused, modified, or distributed without explicit written permission.**
-
-Unauthorized use or reproduction is strictly prohibited.
+**EHS** is an original, independent project by **Hossam Mohamed**.  
+More details will be shared when ready.
 
 ---
 
-## 📜 License
+## ⚠️ Legal
 
-This repository is **All Rights Reserved**.  
-For permission requests, please contact **Hossam Mohamed** directly.
+All rights reserved.  
+No code, ideas, or content in this repository may be copied, reused, or distributed without written permission from the owner.
 
-© 2025 Hossam Mohamed. All rights reserved.
+---
+
+© 2025 Hossam Mohamed
